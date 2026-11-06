@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06 09:14:51",
+  "timestamp": "2026-11-06 17:11:43",
   "source": "https://www.ziyuanzu.com",
   "resources": [
     {
@@ -12,7 +12,7 @@
       "health": {
         "url": "https://www.ziyuanzu.com/about",
         "status_code": 200,
-        "response_time_ms": 266.86,
+        "response_time_ms": 314.15,
         "is_alive": true,
         "error": null
       }
